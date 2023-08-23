@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{ailonFastJohnsonLindenstrauss2009}
+Nir Ailon and Bernard Chazelle.
+\newblock The {{Fast Johnson}}\textendash{{Lindenstrauss Transform}} and {{Approximate Nearest Neighbors}}.
+\newblock {\em SIAM Journal on Computing}, Vol.~39, No.~1, pp. 302--322, January 2009.
+
+\bibitem{falconeMatrixSketchingSupervised2019}
+Roberta Falcone, Angela Montanari, and Laura Anderlucci.
+\newblock Matrix sketching for supervised classification with imbalanced classes, December 2019.
+
+\bibitem{hamaguchiApplyingForGraduateSchool2023}
+Hiroki Hamaguchi.
+\newblock {{applyingForGraduateSchool}}, June 2023.
+
+\bibitem{hidoJinNiannoSIGKDDbesutopepawoShiZhuangGongKaisitemimasita2013}
+Shohei Hido.
+\newblock {今年のSIGKDDベストペーパーを実装・公開してみました}, August 2013.
+
+\bibitem{huangLaplacianChangePoint2020}
+Shenyang Huang, Yasmeen Hitti, Guillaume Rabusseau, and Reihaneh Rabbany.
+\newblock Laplacian {{Change Point Detection}} for {{Dynamic Graphs}}.
+\newblock In {\em Proceedings of the 26th {{ACM SIGKDD International Conference}} on {{Knowledge Discovery}} \& {{Data Mining}}}, pp. 349--358, August 2020.
+
+\bibitem{kunduNoteRandomizedElementwise2014}
+Abhisek Kundu and Petros Drineas.
+\newblock A {{Note}} on {{Randomized Element-wise Matrix Sparsification}}, April 2014.
+
+\bibitem{libertySimpleDeterministicMatrix2013}
+Edo Liberty.
+\newblock Simple and deterministic matrix sketching.
+\newblock In {\em Proceedings of the 19th {{ACM SIGKDD}} International Conference on {{Knowledge}} Discovery and Data Mining}, {{KDD}} '13, pp. 581--588, {New York, NY, USA}, August 2013. {Association for Computing Machinery}.
+
+\bibitem{takayanagiLunWenDundaSimpleDeterministic2019}
+Shinichi Takayanagi.
+\newblock 論文読んだ「{{Simple}} and {{Deterministic Matrix Sketching}}」.
+\newblock https://speakerdeck.com/stakaya/lun-wen-du-nda-simple-and-deterministic-matrix-sketching, April 2019.
+
+\bibitem{wilkinsonLowrankApproximationMultivariate}
+Prof~Richard Wilkinson.
+\newblock {\em 3.5 {{Low-rank}} Approximation | {{Multivariate Statistics}}}.
+
+\bibitem{woodruffSketchingToolNumerical2014}
+David~P. Woodruff.
+\newblock Sketching as a {{Tool}} for {{Numerical Linear Algebra}}.
+\newblock {\em Foundations and Trends\textregistered{} in Theoretical Computer Science}, Vol.~10, No. 1-2, pp. 1--157, 2014.
+
+\bibitem{GengJieNiWenTitositeno4CiYuandetaTongHua2020}
+伊藤耕介, 藤井陽介.
+\newblock {逆問題としての4次元データ同化}.
+\newblock ながれ : 日本流体力学会誌 = Nagare : journal of Japan Society of Fluid Mechanics, Vol.~39, No.~3, pp. 167--179, June 2020.
+
+\bibitem{SongWeiShuZhiJieXiDi2ZhangXianXingFangChengShiLianLiYiCiFangChengShi2021}
+宇泰松尾.
+\newblock 数値解析第2章 線形方程式:連立一次方程式 (数値解析 講義資料), September 2021.
+
+\bibitem{YouZuoTeYiZhiFenJiearugorizumunoZuiJinnoFaZhan2014}
+山本有作.
+\newblock 特異値分解アルゴリズムの最近の発展.
+\newblock システム／制御／情報, Vol.~58, No.~8, pp. 315--320, 2014.
+
+\bibitem{GuanHuDetaFenXiJiChuZhuChengFenFenXi}
+啓人關戸.
+\newblock データ分析基礎 主成分分析.
+
+\end{thebibliography}
